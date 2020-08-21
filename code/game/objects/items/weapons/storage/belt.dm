@@ -49,8 +49,8 @@
 		"/obj/item/device/lightreplacer",
 		"/obj/item/device/device_analyser",
 		"/obj/item/device/silicate_sprayer",
-		"/obj/item/device/geiger_counter"
-		)
+		"/obj/item/device/geiger_counter",
+		"/obj/item/device/holomap")
 
 /obj/item/weapon/storage/belt/utility/complete/New()
 	..()
