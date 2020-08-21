@@ -6,6 +6,9 @@
 
 	icon = 'icons/obj/device.dmi'
 	icon_state = "holomap"
+	w_class = W_CLASS_SMALL
+	slot_flags = SLOT_BELT
+
 
 	var/list/image/showing = list()
 	var/client/viewing // Client that is using the device right now, also determines whether it's on or off.
